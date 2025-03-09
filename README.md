@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimas Hidayat</h1>
 <h3 align="center">Data Science Enthusiast | Machine Learning Practitioner | Deep Learning Specialist | Passionate about using data to drive insights and solve real-world problems.</h3>
 
-- 👨‍💻 All of my projects are available at [https://dimashidayat99.github.io/portfolio/](https://dimashidayat99.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://dimashidayat99.github.io/dimashidayat-portfolio/](https://dimashidayat99.github.io/dimashidayat-portfolio/)
 
 - 📫 How to reach me **dimashidayat2610@gmail.com**
 
